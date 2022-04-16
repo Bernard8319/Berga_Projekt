@@ -1,0 +1,21 @@
+﻿.media-img {
+    width: 100px;
+    hight: 100px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    transition: transform .2s;
+}
+
+.media-img-wrapper {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.media-img:hover {
+    transform: scale(1.1);
+    cursor;
+}
+
+.price {
+    color: green;
